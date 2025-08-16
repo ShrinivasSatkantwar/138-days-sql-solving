@@ -18,7 +18,7 @@ The goal is to solve SQL problems daily for 138 days without missing a day, docu
 - Track progress and stay accountable  
 
 ## 📂 Repository Structure  
-- **Day_xx** → Folder containing problem statement and solution file(s) for that day  
+- **📂SQL** → Folder containing **Day_xx.md** files which include problem statement and solution file(s) for that day  
  
 
  
